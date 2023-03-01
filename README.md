@@ -1,6 +1,7 @@
 # Movie List
 
 A simple web application for movie fanatic
+visit site: https://shaochenn.github.io/My-Movie-List/
 
 ## Features
 
